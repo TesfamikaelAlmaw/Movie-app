@@ -1,70 +1,87 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
+**Movie  App**
+**Table of contents**
+- [Project Description](#project-description)
+- [Features](#features)
+- [Demo](#demo)
+  - [](#)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+  
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+# Project Description
+This project is a Movie Web Application developed using React and styled with Tailwind CSS. It allows users to effortlessly browse, search, and view various movies. The application utilizes an external API to fetch movie data, presenting it in an intuitive and user-friendly interface.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Features
+- **Browse Movies:** View an extensive list of popular and trending movies.  
+- **Search Functionality:** Easily search for movies by title.  
+- **Responsive Design:** Optimized for seamless use on both desktop and mobile devices.  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+# Demo
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![screenshot-1](./images/image.png)
+![screenshot-1](./images/image2.png)
+---
 
-### `npm run build`
+# Technologies Used
+- **React:** A JavaScript library for building interactive user interfaces.  
+- **Tailwind CSS:** A utility-first CSS framework for rapid and efficient UI development.  
+- **Node.js:** A JavaScript runtime built on Chrome's V8 engine, enabling server-side JavaScript.  
+- **Movie API:** An external API that provides access to movie data.  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Installation
+To get started with the project, follow these steps:  
+1. **Clone the repository:**  
+   `git clone https://github.com/yourusername/yourproject.git`  
+2. **Navigate to the project directory:**  
+   `cd yourproject`  
+3. **Install the dependencies:**  
+   `npm install`  
+_Don't forget  configuring tailwind in your local environment_ 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+# Usage
+- **Start the development server:**  
+  `npm start`  
+- Open [http://localhost:3000](http://localhost:3000) in your browser to view the application. The page will automatically reload whenever you make edits, and any lint errors will be displayed in the console.  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Contributing
+Contributions are welcome! Please follow these steps:  
+1. **Fork the repository.**  
+2. **Create a new branch:**  
+   `git checkout -b feature-branch`  
+3. **Make your changes and commit them:**  
+   `git commit -m 'Add some feature'`  
+4. **Push to the branch:**  
+   `git push origin feature-branch`  
+5. **Open a pull request.**  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.  
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Contact
+- **Your Name:** iinventme26@gmail.com  
+- **GitHub:** https://github.com/TesfamikaelAlmaw
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
