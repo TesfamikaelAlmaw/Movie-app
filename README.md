@@ -5,7 +5,6 @@
 - [Project Description](#project-description)
 - [Features](#features)
 - [Demo](#demo)
-  - [](#)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -80,7 +79,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 # Contact
-- **Your Name:** iinventme26@gmail.com  
+- ** Name:** iinventme26@gmail.com  
 - **GitHub:** https://github.com/TesfamikaelAlmaw
 
 ---
