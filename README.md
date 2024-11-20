@@ -46,7 +46,7 @@ This project is a Movie Web Application developed using React and styled with Ta
 # Installation
 To get started with the project, follow these steps:  
 1. **Clone the repository:**  
-   `git clone https://github.com/yourusername/yourproject.git`  
+   `git clone https://github.com/TesfamikaelAlmaw/Movie-app`  
 2. **Navigate to the project directory:**  
    `cd yourproject`  
 3. **Install the dependencies:**  
